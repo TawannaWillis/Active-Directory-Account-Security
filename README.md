@@ -84,36 +84,24 @@ This project demonstrates the implementation and management of account security 
 <br />
 
 
-<br />- Enable Remote Desktop for non-administrative users <br />
-<br />- Log in as an administrator (e.g., Jane).  
-<br />- Open **System Properties** and click on **Remote Desktop**.  
-<br />- Select users that can remotely access the PC.  
-<br />- Allow **Domain Users** access to Remote Desktop.  
-<br />- Non-administrative users can now log in to the client computer.  
-<br />- Note: Group Policy can be used to apply this change across multiple systems, but it is not used in this lab.  
+- Observe the logs in the **Domain Controller**.
+- Observe the logs on the **client machine**.
+- Visit **joshmadakor.tech/cyber** for a precursor to cybersecurity and security operations. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/h9c3YOM.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/xalP6Gh.png" height="80%" width="80%" alt="Configuration Steps"/>
+
 </p>
 
-<br />- Users can be created manually or with a script.<br />  
-<br />- For this lab, a PowerShell script is used.<br />  
-<br />- Log in to the domain controller with an admin account.<br />  
-<br />- Open **PowerShell ISE** as an administrator.<br />  
-<br />- Create a new file and paste the script into the ISE console.<br />  
-<br />- Run the script and observe the accounts being created.<br />  
+
 </p>
 
 <p>
-<img src="https://i.imgur.com/499JIxw.png" height="80%" width="80%" alt="Configuration Steps"/>
+
 </p>
 <p>
-<br />- Users created with the PowerShell script can now sign in to Client-1.  
-<br />- Observe that in Active Directory, under -Employees users are created.  
-<br />- User are able to be log into Client-1 with password1.
+
 </p>
 <br />
 
