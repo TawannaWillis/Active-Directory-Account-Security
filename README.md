@@ -35,16 +35,16 @@ This project demonstrates the implementation and management of account security 
 </p>
 <p>
 
-- Log into **dc-1**.
-- Choose a random user account previously created.
-- Attempt to log in 10 times with an incorrect password.
-- Configure Group Policy to lock the account after 5 failed attempts:
-  - Follow steps to configure Account Lockout Threshold in Group Policy.
-- Attempt to log in 6 times with an incorrect password.
-- Observe that the account is locked out in **Active Directory**.
-- Unlock the account.
-- Reset the password.
-- Attempt to log in again with the new password. 
+<br />- Log into **dc-1**.
+<br />- Choose a random user account previously created.
+<br />- Attempt to log in 10 times with an incorrect password.
+<br />- Configure Group Policy to lock the account after 5 failed attempts:
+<br /> - Follow steps to configure Account Lockout Threshold in Group Policy.
+<br />- Attempt to log in 6 times with an incorrect password.
+<br />- Observe that the account is locked out in **Active Directory**.
+<br />- Unlock the account.
+<br />- Reset the password.
+<br />- Attempt to log in again with the new password. 
 
 
 </p>
@@ -68,10 +68,12 @@ This project demonstrates the implementation and management of account security 
   
 
 
-- Disable the same account in **Active Directory.
-- Attempt to log in with the account and observe the error message.
-- Re-enable the account.
-- Attempt to log in again with the account.  
+
+<br />- Disable the same account in Active Directory.
+<br />- Attempt to log in with the account and observe the error message.
+<br />- Re-enable the account.
+<br />- Attempt to log in again with the account.  
+
 </p>
 <br />
 
