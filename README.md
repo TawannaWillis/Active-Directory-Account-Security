@@ -64,13 +64,14 @@ This project demonstrates the implementation and management of account security 
 <img src="https://i.imgur.com/URuAmsO.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-<br />- Join the client VM to the domain <br /> 
-<br />- Open the **System** menu on the client VM. <br /> 
-<br />- Click **Rename this PC (advanced)** and then **Change**. <br /> 
-<br />- Enter the domain name and provide the necessary credentials (e.g., domain path and username). <br /> 
-<br />- Log in with credentials in the format: `domain\username`. <br /> 
-<br />- VerifyThe client VM is now part of the domain. <br /> 
-<br />- VerifyOn the domain controller, the client appears under **Computers** in the **Active Directory Users and Computers** panel.<br />  
+
+  
+
+
+- Disable the same account in **Active Directory.
+- Attempt to log in with the account and observe the error message.
+- Re-enable the account.
+- Attempt to log in again with the account.  
 </p>
 <br />
 
