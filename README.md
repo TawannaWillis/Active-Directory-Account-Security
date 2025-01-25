@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/QNxjap4.png" alt="Permissions Photo"/>
+
+
 # Active-Directory-Account-Security
 
 </p>
