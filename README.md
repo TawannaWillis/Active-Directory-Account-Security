@@ -48,8 +48,7 @@ This project demonstrates the implementation and management of account security 
 <br />- Attempt to log in 6 times with an incorrect password.
 <br />- Observe that the account is locked out in **Active Directory**.
 <br />- Unlock the account.
-<br />- Reset the password.
-<br />- Attempt to log in again with the new password. 
+ 
 
 
 </p>
