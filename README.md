@@ -90,7 +90,7 @@ This project demonstrates the implementation and management of account security 
 
 - Observe the logs in the **Domain Controller**.
 - Observe the logs on the **client machine**.
-- Visit **joshmadakor.tech/cyber** for a precursor to cybersecurity and security operations. 
+
 </p>
 <br />
 
