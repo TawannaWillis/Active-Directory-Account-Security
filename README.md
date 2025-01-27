@@ -33,14 +33,14 @@ This project demonstrates the implementation and management of account security 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/zo0BWbb.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/5di40mj.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/EHU2ooS.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/arbzQKI.png" height="80%" width="80%" alt="Configuration Steps"/>  
 </p>
 <p>
 
 <br />- Log into **dc-1**.
-<br />- Choose a random user account previously created.
+<br />- Choose a random user account previously created. I used bobex.gomo
 <br />- Attempt to log in 10 times with an incorrect password.
 <br />- Configure Group Policy to lock the account after 5 failed attempts:
 <br /> - Follow steps to configure Account Lockout Threshold in Group Policy.
