@@ -37,8 +37,8 @@ This project demonstrates the implementation and management of account security 
 <img src="https://i.imgur.com/kRfXDoW.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/2vT5VLq.png" height="80%" width="80%" alt="Configuration Steps"/>  
 <img src="https://i.imgur.com/Sb8F3U0.png" height="80%" width="80%" alt="Configuration Steps"/>  
-</p>
-<p>
+<img src="https://i.imgur.com/0XlGPPw.png" height="80%" width="80%" alt="Configuration Steps"/>  
+
 
 <br />- Log into **dc-1**.
 <br />- Choose a random user account previously created. I used bobex.gomo
@@ -48,6 +48,7 @@ This project demonstrates the implementation and management of account security 
 <br />- Attempt to log in 6 times with an incorrect password.
 <br />- Observe that the account is locked out in **Active Directory**.
 <br />- Unlock the account.
+<br />- Reset Password for user bobex.gomo (Right click user name in DC-1, click reset password and reset and unlock for user)
  
 
 
