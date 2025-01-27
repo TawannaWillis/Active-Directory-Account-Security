@@ -111,4 +111,4 @@ This project demonstrates the implementation and management of account security 
 
 <h2>Lessons Learned</h2>
 
-Completing this lab has taught me how to set up Active Directory and join client machines to the domain. I also learned how to create users and assign the necessary permissions. Although Active Directory involves a lot of menu navigation, it is not difficult to grasp. This lab serves as a gateway for me to explore DNS settings and file permissions in greater depth, which I will cover in future labs.
+In this lab, I simulated account lockouts in Active Directory by configuring Group Policy to lock accounts after 5 failed login attempts, then unlocked and reset the account. I also disabled and re-enabled accounts, observing the effects, and analyzed security logs to identify lockout events. Key lessons included balancing security with usability, managing accounts effectively, and leveraging logs for troubleshooting. This hands-on experience highlighted the importance of proper account lockout policies in preventing brute-force attacks while minimizing user disruption.
