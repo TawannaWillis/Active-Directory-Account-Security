@@ -34,7 +34,7 @@ This project demonstrates the implementation and management of account security 
 
 <p>
 <img src="https://i.imgur.com/5di40mj.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/EHU2ooS.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/kRfXDoW.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/arbzQKI.png" height="80%" width="80%" alt="Configuration Steps"/>  
 </p>
 <p>
